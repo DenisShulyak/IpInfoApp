@@ -1,0 +1,15 @@
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\bin\Debug\IpInfoApp.exe.config
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\bin\Debug\IpInfoApp.exe
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\bin\Debug\IpInfoApp.pdb
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.csprojAssemblyReference.cache
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\MainWindow.g.cs
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\App.g.cs
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp_MarkupCompile.cache
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp_MarkupCompile.lref
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\MainWindow.baml
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.g.resources
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.Properties.Resources.resources
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.csproj.GenerateResource.cache
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.csproj.CoreCompileInputs.cache
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.exe
+C:\Users\denis\source\repos\IpInfoApp\IpInfoApp\obj\Debug\IpInfoApp.pdb

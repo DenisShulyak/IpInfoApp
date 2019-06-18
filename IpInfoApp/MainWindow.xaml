@@ -1,0 +1,18 @@
+﻿<Window x:Class="IpInfoApp.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:IpInfoApp"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="checkByNameButton" Content="Определение IP-адресов по URL-имени сервера" HorizontalAlignment="Left" Margin="286,147,0,0" VerticalAlignment="Top" Width="325" Click="CheckByNameButtonClick"/>
+        <TextBox x:Name="nameTextBox" HorizontalAlignment="Left" Height="23" Margin="126,147,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120" RenderTransformOrigin="0.699,0.574"/>
+        <TextBox x:Name="ipTextBox" HorizontalAlignment="Left" Height="23" Margin="126,194,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="120"/>
+        <Button x:Name="heckByIpButton" Content="По IP-адресу определеить связанное с ним имя серевера" HorizontalAlignment="Left" Margin="286,197,0,0" VerticalAlignment="Top" Width="325" Click="CheckByIpButtonClick"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,151,0,0" TextWrapping="Wrap" Text="Url-имя сервера" VerticalAlignment="Top"/>
+        <TextBlock HorizontalAlignment="Left" Margin="90,197,0,0" TextWrapping="Wrap" Text="IP" VerticalAlignment="Top"/>
+
+    </Grid>
+</Window>
